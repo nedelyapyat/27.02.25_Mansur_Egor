@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _27._02._25_Mansur_Egor
 {
-    internal class /*_5_ToggleBit*/
+    internal class _5_ToggleBit
     {
         public static void Execute()
         {

@@ -32,7 +32,7 @@ namespace _27._02._25_Mansur_Egor
                             _4_CountOnes.Execute();
                             break;
                         case 5:
-                            _4_CountOnes.Execute();
+                            _5_ToggleBit.Execute();
                             break;
                         case 6:
                             _6_MultiplyVsShift.Execute();
