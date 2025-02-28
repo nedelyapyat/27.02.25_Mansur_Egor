@@ -37,9 +37,9 @@ namespace _27._02._25_Mansur_Egor
                         case 6:
                             _6_MultiplyVsShift.Execute();
                             break;
-                        //case 7:
-                        //    _7_OverflowCheck.Execute();
-                        //    break;
+                        case 7:
+                            _7_RoundNumber.Execute();
+                            break;
                         //case 8:
                         //    _8_ArrayMaxValue.Execute();
                         //    break;
