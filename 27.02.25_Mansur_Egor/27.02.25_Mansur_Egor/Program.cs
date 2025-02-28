@@ -8,8 +8,13 @@ namespace _27._02._25_Mansur_Egor
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+        }
+
+        private static void BitwiseOperations()
+        {
+            Console.ReadKey();
         }
     }
 }

@@ -8,7 +8,7 @@ namespace _27._02._25_Mansur_Egor
 {
     internal class _1_BitwiseOperations
     {
-        public static void Main()
+        public static void BitwiseOperations()
         {
             Console.Write("Введите первое число: ");
             int num1 = int.Parse(Console.ReadLine());
