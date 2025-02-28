@@ -19,36 +19,36 @@ namespace _27._02._25_Mansur_Egor
 
                     switch (taskNumber)
                     {
-                        //case 1:
-                        //    _1_EvenOdd.Execute();
-                        //    break;
+                        case 1:
+                            _1_BitwiseOperations.Execute();
+                            break;
                         case 2:
                             _2_BitShiftOperations.Execute();
                             break;
-                        //case 3:
-                        //    _3_StringToNumber.Execute();
-                        //    break;
-                        //case 4:
-                        //    _4_SumNumFrom1toN.Execute();
-                        //    break;
-                        //case 5:
-                        //    _5_NumbersProductWithWhile.Execute();
-                        //    break;
+                        case 3:
+                            _3_BitCheck.Execute();
+                            break;
+                        case 4:
+                            _4_CountOnes.Execute();
+                            break;
+                        case 5:
+                            _4_CountOnes.Execute();
+                            break;
                         case 6:
                             _6_MultiplyVsShift.Execute();
                             break;
                         case 7:
                             _7_RoundNumber.Execute();
                             break;
-                        //case 8:
-                        //    _8_ArrayMaxValue.Execute();
-                        //    break;
-                        //case 9:
-                        //    _9_BitOperations.Execute();
-                        //    break;
-                        //case 10:
-                        //    _10_SimplrCalculatorOnSwitch.Execute();
-                        //    break;
+                        case 8:
+                            _8_CustomRound.Execute();
+                            break;
+                        case 9:
+                            _9_CompareRoundingMethods.Execute();
+                            break;
+                        case 10:
+                            _10_EvenCheckAndDivide.Execute();
+                            break;
                         default:
                             Console.WriteLine("Некорректный номер задания.");
                             break;

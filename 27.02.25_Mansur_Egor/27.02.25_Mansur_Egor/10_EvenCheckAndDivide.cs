@@ -8,7 +8,7 @@ namespace _27._02._25_Mansur_Egor
 {
     class _10_EvenCheckAndDivide
     {
-        static void Execute()
+        public static void Execute()
         {
             Console.Write("Введите число: ");
             int num = int.Parse(Console.ReadLine());

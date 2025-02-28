@@ -46,6 +46,9 @@
     <Compile Include="10_EvenCheckAndDivide.cs" />
     <Compile Include="1_BitwiseOperations.cs" />
     <Compile Include="2_BitShiftOperations.cs" />
+    <Compile Include="3_BitCheck.cs" />
+    <Compile Include="4_CountOnes.cs" />
+    <Compile Include="5_ToggleBit.cs" />
     <Compile Include="6_MultiplyVsShift.cs" />
     <Compile Include="7_RoundNumber.cs" />
     <Compile Include="8_CustomRound.cs" />

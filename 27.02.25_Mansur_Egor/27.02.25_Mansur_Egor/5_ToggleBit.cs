@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _27._02._25_Mansur_Egor
 {
-    internal class _3_BitCheck
+    internal class /*_5_ToggleBit*/
     {
         public static void Execute()
         {
@@ -16,8 +16,8 @@ namespace _27._02._25_Mansur_Egor
             Console.WriteLine("Введите номер бита:");
             int bitPosition = int.Parse(Console.ReadLine());
 
-            bool isBitSet = (num & (1 << bitPosition)) != 0;
-            Console.WriteLine($"Бит на позиции {bitPosition} {(isBitSet ? "установлен" : "не установлен")}.");
+            int toggledNum = num ^ (1 << bitPosition);
+            Console.WriteLine($"Число после инвертирования бита на позиции {bitPosition}: {toggledNum}");
         }
     }
 }
