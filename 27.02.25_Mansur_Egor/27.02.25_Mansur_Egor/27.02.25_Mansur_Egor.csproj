@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1_BitwiseOperations.cs" />
-    <Compile Include="3_ChekingBitSet.cs" />
+    <Compile Include="2_BitShiftOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
