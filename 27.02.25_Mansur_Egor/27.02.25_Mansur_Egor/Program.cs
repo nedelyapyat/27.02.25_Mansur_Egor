@@ -34,9 +34,9 @@ namespace _27._02._25_Mansur_Egor
                         //case 5:
                         //    _5_NumbersProductWithWhile.Execute();
                         //    break;
-                        //case 6:
-                        //    _6_Explicit_ImplicitTypeConversion.Execute();
-                        //    break;
+                        case 6:
+                            _6_MultiplyVsShift.Execute();
+                            break;
                         //case 7:
                         //    _7_OverflowCheck.Execute();
                         //    break;
