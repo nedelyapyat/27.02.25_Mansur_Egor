@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10_EvenCheckAndDivide.cs" />
     <Compile Include="1_BitwiseOperations.cs" />
     <Compile Include="2_BitShiftOperations.cs" />
     <Compile Include="6_MultiplyVsShift.cs" />
     <Compile Include="7_RoundNumber.cs" />
+    <Compile Include="8_CustomRound.cs" />
+    <Compile Include="9_CompareRoundingMethods.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
